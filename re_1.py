@@ -15,6 +15,6 @@ with open("map.xml", "r") as f:
 
 # text = "<p>Картинка <img src='bg.jpg'> в тексте приветствие</p>"
 # # text = "pi = 3, a = 5"
-#
+#PRIVET
 # match = re.findall(r"<img\s+[^>]*src=(?P<q>[\"'])(.+?)(?P=q)", text)
 # print(match)
